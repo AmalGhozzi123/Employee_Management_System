@@ -1,30 +1,34 @@
-# 🚀 **Gestion des Employés pour La Poste De Tunis**
+# 🚀 **Employee Management for Tunis Post**
 
-## 📋 **Description du Projet**
+## 📋 **Project Description**
 
-Dans le cadre de ma formation en Développement de Systèmes d'Information (DSI), j'ai effectué un stage de perfectionnement de 4 semaines (16 janvier 2023 - 11 février 2023) à La Poste De Tunis. Durant ce stage, j'ai développé un site web pour aider le Responsable RH à gérer les informations des employés, calculer les primes de nuit et gérer les demandes de congés. Ce projet vise à améliorer l'efficacité et la gestion des employés. 🌟
+As part of my training in Information Systems Development (ISD), I completed a 4-week internship (January 16, 2023 - February 11, 2023) at Tunis Post. During this internship, I developed a website to assist the HR Manager in managing employee information, calculating night shift bonuses, and handling leave requests. This project aims to enhance the efficiency and management of employees. 🌟
 
-## 🌐 **Fonctionnalités du Site**
+## 📌 **Actors**
+- **HR Manager**: Responsible for managing employee information, calculating bonuses, and handling leave requests.
+- **Employees**: Users who can submit leave requests and check the status of their requests.
 
-### 👥 **Gestion des Employés**
-- **Ajouter un nouvel employé** : Ajout des détails d'un nouvel employé.
-- **Modifier les informations d’un employé** : Mise à jour des informations d'un employé existant.
-- **Supprimer un employé** : Suppression d'un employé de la liste.
+## 🌐 **Website Features**
 
-### 🏝️ **Gestion des Congés**
-- **Visualiser les demandes de congé** : Consultation de toutes les demandes de congé.
-- **Modifier l'état de la demande de congé** : Acceptation ou refus des demandes de congé.
-- **Consulter les demandes de congé** : Consultation des demandes de congé acceptées ou refusées précédemment.
+### 👥 **Employee Management**
+- **Add a New Employee**: Adding details of a new employee.
+- **Modify Employee Information**: Updating information of an existing employee.
+- **Delete an Employee**: Removing an employee from the list.
 
-### 🌙 **Gestion des Primes de Nuit**
-- **Calcul des primes de nuit** : Calcul des primes de nuit pour chaque employé en fonction des heures travaillées.
+### 🏝️ **Leave Management**
+- **View Leave Requests**: Viewing all leave requests.
+- **Modify Leave Request Status**: Accepting or rejecting leave requests.
+- **Consult Leave Requests**: Reviewing previously accepted or rejected leave requests.
 
-### 🧑‍💼 **Fonctionnalités pour les Employés**
-- **Soumettre une demande de congé** : Soumission de demandes de congé avec les détails nécessaires.
-- **Consulter l'état de leurs demandes de congé** : Vérification de l'état des demandes de congé soumises.
+### 🌙 **Night Shift Bonus Management**
+- **Calculate Night Shift Bonuses**: Calculating night shift bonuses for each employee based on hours worked.
 
-## 🛠️ **Technologies Utilisées**
-- **PHP** : Développement du backend.
-- **MySQL** : Gestion de la base de données.
-- **JavaScript** : Fonctionnalités interactives.
-- **Bootstrap** : Design réactif et interface utilisateur.
+### 🧑‍💼 **Employee Features**
+- **Submit a Leave Request**: Submitting leave requests with necessary details.
+- **Check the Status of Their Leave Requests**: Checking the status of submitted leave requests.
+
+## 🛠️ **Technologies Used**
+- **PHP**: Backend development.
+- **MySQL**: Database management.
+- **JavaScript**: Interactive features.
+- **Bootstrap**: Responsive design and user interface.
