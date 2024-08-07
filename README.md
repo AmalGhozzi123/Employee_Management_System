@@ -40,3 +40,5 @@ The **Employee Management for Tunis Post** project was developed to address the 
 - **MySQL**: Database management.
 - **JavaScript**: Interactive features.
 - **Bootstrap**: Responsive design and user interface.
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at `amalghozzi@outlook.com`.
